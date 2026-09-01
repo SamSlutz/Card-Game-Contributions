@@ -1,8 +1,5 @@
 # Hearthstone — Competitive Play & Deckbuilding
 
-Posted under the handle **Commie**.
-
-
 ## Dragon Rogue
 
 Built and piloted a Dragon Rogue variant to Top Legend in a meta dominated by thief priest.
