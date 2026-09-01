@@ -13,10 +13,9 @@ That's what these documents map out.
 
 **`alex-cheat-sheet.pdf`** -- The main line
 here is straightforward and ubiquitously known among the pilots of the deck.
-What I contributed: exhaustively mapping every other viable line,
+I exhaustively mapped every other viable line,
 every mana/damage tradeoff, every modification for a missing tutor target,
-every possible edge case; and organizing it into the reference table format used
-here.
+every possible edge case; and organizing it into the format used here.
 
 **`darkscale-alexstrasza-otk-all.pdf`** -- The main line was discovered by myself,
 whereas UsernameABCD compiled the document and listed many fringe cases
@@ -26,10 +25,11 @@ discover or originally post these lines; I compiled and organized them
 into this document for reference. Credited here as a compilation, not
 original work.
 
+**`Vanndar Alex Flow.pdf`** -- This combo was my own variant, I wrote all the lines down for fun. 
+
 ## Why these are here
 
 Alongside the [probability model](../../probability-model), these guides
 are the other half of how I engage with this kind of game: not just
 building decks, but mapping the full decision space around them
-so that the correct line is always knowable rather than guessed at
-mid-game.
+so that the correct line is always knowable rather than guessed at.
