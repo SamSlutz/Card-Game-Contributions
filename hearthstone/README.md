@@ -3,7 +3,7 @@
 Posted under the handle **Commie**.
 
 
-## Big Dragon Rogue
+## Dragon Rogue
 
 Built and piloted a Dragon Rogue variant to Top Legend in a meta dominated by thief priest.
 The idea is that Dragon Rogue is a high-roll deck that gambits with a large board.
