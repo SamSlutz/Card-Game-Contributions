@@ -1,8 +1,8 @@
 # Card Game Probability Modeling
 
-An exact-probability solver for evaluating fixed play policies in card-game
+An exact probability solver for evaluating fixed play policies in card game
 combo lines, applied here to a Hearthstone Rogue build. Instead of
-estimating outcomes via Monte Carlo simulation, this computes the *exact*
+estimating outcomes via Monte Carlo simulation, this computes the exact
 probability of reaching a target end state, given a deterministic policy
 and a random shuffle.
 
@@ -26,8 +26,8 @@ toward.
 `policy_automaton.py` is the generic engine: given a policy and a set of
 card definitions (cost, condition, effect), it computes exact outcome
 probabilities via a memoized backward recursion over compressed game
-states — many distinct card orderings collapse onto the same internal
-state, so this scales far better than enumerating permutations directly,
+states, thus, many distinct card orderings collapse onto the same internal
+state, so this scales better than enumerating permutations directly,
 while still being provably equivalent to brute-force enumeration on small
 cases (see `solve_bruteforce`, used to validate `solve_exact`).
 
@@ -42,7 +42,7 @@ cases (see `solve_bruteforce`, used to validate `solve_exact`).
 
 ## Status
 
-The framework runs and cross-validates correctly against brute-force
+The framework runs and cross-validates correctly against brute force
 enumeration on small test decks. At full deck size, exact runs are slow
 enough that I haven't yet confirmed whether that's simply the size of the
 state space or a policy inefficiency, that's the current open question
