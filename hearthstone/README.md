@@ -5,10 +5,10 @@ Posted under the handle **Commie**.
 
 ## Big Dragon Rogue
 
-Built and piloted a Dragon Rogue variant to Top Legend in a meta dominated by thief priest
+Built and piloted a Dragon Rogue variant to Top Legend in a meta dominated by thief priest.
 The idea is that Dragon Rogue is a high-roll deck that gambits with a large board.
-Of course, thief priest copies half your deck and doesn't run board clear
-As a result, they're playing a strictly worse deck with no counter-play
+Of course, thief priest copies half your deck and doesn't run board clear.
+As a result, they're playing a strictly worse deck with no counter-play.
 
 After being posted, the deck saw a meaningful resurgence for
 an otherwise dead archetype:
