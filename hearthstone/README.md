@@ -14,7 +14,10 @@ an otherwise dead archetype:
 - On [hsguru](https://www.hsguru.com/decks?format=1&min_games=50&period=past_30_days&player_class[]=ROGUE&player_deck_includes[]=38943&rank=all)
   (the standard site for tracking play rates and win rates), the specific
   list has roughly 150 logged games on the deck-tracker website since it was posted
-  
+
+## Mill Rogue
+
+Built and piloted a Mill rogue deck to Top legend, refining the old archetype by incorporating multiple new cards into old strategies. At the time of release, my build has proven to be the most optimal out of the known experimental mill lists.
 
 ## Combo-line guides
 
