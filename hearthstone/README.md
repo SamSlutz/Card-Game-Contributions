@@ -17,7 +17,7 @@ an otherwise dead archetype:
 
 ## Mill Rogue
 
-Built and piloted a Mill rogue deck to Top legend, refining the old archetype by incorporating multiple new cards into old strategies. At the time of release, my build has proven to be the most optimal out of the known experimental mill lists.
+Built and piloted a Mill rogue deck to Top legend (top 300), refining the old archetype by incorporating multiple new cards into old strategies. At the time of release, my build has proven to be the most optimal out of the known experimental mill lists.
 
 ## Combo-line guides
 
