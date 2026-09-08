@@ -19,7 +19,7 @@ an otherwise dead archetype:
 - Listed on [hearthstone-decks.net](https://hearthstone-decks.net/big-dragon-rogue-486-legend-commie-score-53-22/)
 - On [hsguru](https://www.hsguru.com/decks?format=1&min_games=50&period=past_30_days&player_class[]=ROGUE&player_deck_includes[]=38943&rank=all)
   (the standard site for tracking play rates and win rates), the specific
-  list has roughly 150 logged games on the deck-tracker website since it was posted
+  list has roughly 200 logged games since it was posted
 
 ## Combo-line guides
 
