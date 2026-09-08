@@ -1,5 +1,11 @@
 # Hearthstone — Competitive Play & Deckbuilding
 
+## Mill Rogue
+
+Built and piloted a Mill rogue deck to Top legend (top 300), refining the old archetype by incorporating multiple new cards into old strategies.
+
+- Listed on [hearthstone-decks.net](https://hearthstone-decks.net/renathal-mill-rogue-297-legend-commie-score-19-3/)
+
 ## Dragon Rogue
 
 Built and piloted a Dragon Rogue variant to Top Legend in a meta dominated by thief priest.
@@ -15,16 +21,11 @@ an otherwise dead archetype:
   (the standard site for tracking play rates and win rates), the specific
   list has roughly 150 logged games on the deck-tracker website since it was posted
 
-## Mill Rogue
-
-Built and piloted a Mill rogue deck to Top legend (top 300), refining the old archetype by incorporating multiple new cards into old strategies. At the time of release, my build has proven to be the most optimal out of the known experimental mill lists.
-
 ## Combo-line guides
 
 Alongside ladder results, I've written detailed combo guides for
 other Rogue archetypes. Documents that work through every viable line in
-decks complex enough that the "correct" sequencing isn't obvious even to
-experienced players. These were shared directly with the Rogue community discord
+complex decks. These were shared directly with the Rogue community discord
 
 See [`alex-otk-guides/`](./alex-otk-guides) for the guides themselves,
 along with notes on which lines I found versus compiled from others.
