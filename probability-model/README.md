@@ -1,18 +1,18 @@
 # Card Game Probability Modeling
 
 An exact probability solver for evaluating fixed play policies in card game
-combo lines, applied here to a Hearthstone Rogue build. Instead of
+combo lines, applied here to a Hearthstone build. Instead of
 estimating outcomes via Monte Carlo simulation, this computes the exact
 probability of reaching a target end state, given a deterministic policy
 and a random shuffle.
 
 ## Why this shape of problem
 
-Monte Carlo simulation can estimate a combo's win rate. What it can't
-easily give you is the mathematical structure underneath; how the
+Monte Carlo simulation can estimate a combo's success rate. What it can't
+easily provide is the mathematical structure underneath; how the
 probability mass actually distributes across the shuffle, or why a given
-policy is or isn't near-optimal. That's the part I find interesting,
-and it's the reason this project exists as an exact solver rather than a simulator.
+policy is or isn't near-optimal. That's the reason this project exists as
+an exact solver rather than a simulator.
 
 ## The idea
 
